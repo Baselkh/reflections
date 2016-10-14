@@ -2,8 +2,12 @@ What happens when you initialize a repository? Why do you need to do it?
 	
 	when typing the command "git init" a new folder named ".git" created with some default values, that indicate that the repository is still empty. We have to use that command if we want to start git repositories.
 
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+	I'm not sure, I think the main difference is that a directory/repository accessible from the window explorer.
+
 
 How can you use the staging area to make sure you have one commit per logical
 change?
